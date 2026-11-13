@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-19",
+ "versao": "2026.11.13-20",
  "pacote": "importpro.zip",
- "sha256": "e43b6a4dcf37730e8644e7cf7b351c2d3d1715d16934401cf5927593b3625888",
- "notas": "A página inicial passa a ser o mercado: indicadores de procura em Portugal, a sua atividade, as sugestões do dia e o relatório de tendências."
+ "sha256": "1483e8ab2e5deb349958e432d17348812ffe139e97cec4aa1be0f2ee3a11d771",
+ "notas": "Página inicial com tendências, gráficos e indicadores, e dois botões no topo: Importação e Mercado nacional. Cada um abre a sua página, com as oportunidades de negócio em cima e a pesquisa por baixo."
 }
