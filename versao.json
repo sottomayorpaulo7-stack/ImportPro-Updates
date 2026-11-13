@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-18",
+ "versao": "2026.11.13-19",
  "pacote": "importpro.zip",
- "sha256": "48002e71b102c813cc645c226d2ea32ea8b0911dec1a1499359a26789d1609af",
- "notas": "Página inicial com sugestões do dia (importação e Portugal), página Mercado com as tendências de procura, e mais referências de preço nos modelos raros."
+ "sha256": "e43b6a4dcf37730e8644e7cf7b351c2d3d1715d16934401cf5927593b3625888",
+ "notas": "A página inicial passa a ser o mercado: indicadores de procura em Portugal, a sua atividade, as sugestões do dia e o relatório de tendências."
 }
