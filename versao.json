@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-9",
+ "versao": "2026.11.13-10",
  "pacote": "https://raw.githubusercontent.com/sottomayorpaulo7-stack/ImportPro-Updates/main/importpro.zip",
- "sha256": "8346f6d9856a881023a47c232fb03ec50301fea0fe71589e5621600453e78b12",
- "notas": "Retirada a opção Mudar o email (para outro email, criar conta nova e apagar a antiga)"
+ "sha256": "f93aedc7bfc5078848215ba84eba6677323d54224db4dcd892b9f1c1ccacb8ad",
+ "notas": "Pesquisa com vários modelos (até 5), filtros de combustível e potência, ordenar por custo de aquisição"
 }
