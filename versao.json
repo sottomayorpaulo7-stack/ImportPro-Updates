@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-15",
+ "versao": "2026.11.13-16",
  "pacote": "importpro.zip",
- "sha256": "349243a491774a3d56e02d2bc9c906689b33b91433c09242fabd839ed35ba68a",
- "notas": "Novo desenho: lista de carros e contas no mesmo ecrã, com o talão de custos e lucro sempre à vista. Custos por defeito revistos com os preços de mercado de 2026."
+ "sha256": "380882563675cee3c538382ff658669be28ad2b59c1d68a58af5cef000a8cb3f",
+ "notas": "As pesquisas passam a incluir anúncios de particulares. Cada carro fica marcado como Stand ou Particular e pode filtrar por vendedor na pesquisa e nos resultados."
 }
