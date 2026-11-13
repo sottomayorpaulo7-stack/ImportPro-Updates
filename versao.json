@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-6",
+ "versao": "2026.11.13-7",
  "pacote": "https://raw.githubusercontent.com/sottomayorpaulo7-stack/ImportPro-Updates/main/importpro.zip",
- "sha256": "304aba73841a13b011f4c0847852de7a512e8472160eb7df5d652e0370bb22e1",
- "notas": "Procura atualizações sempre que abre a janela; preparado para o novo nome no GitHub"
+ "sha256": "09c23459d2ff2ca3e394602bf05cca0a933a13d1477c9c9a8b75d001a1bf85b9",
+ "notas": "Na ⚙: versão instalada e botão Procurar atualizações"
 }
