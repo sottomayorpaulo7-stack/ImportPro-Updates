@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-13",
+ "versao": "2026.11.13-14",
  "pacote": "importpro.zip",
- "sha256": "5079911ae0d5c11c2b65ac8e46f74f782068b461eb9f8929eef6d3abb2a83ecf",
- "notas": "ISV mais prudente, aviso de negócios bons demais, pesquisas guardadas, aviso de créditos, notas nos favoritos e imagem nova"
+ "sha256": "bb7026c16da5338fc4d062347a235126d23a444dddefbbbf1b1f10c4ae62ec4a",
+ "notas": "Modelos por caixas de seleção, filtros rápidos nos resultados, barra de progresso, anterior/seguinte no detalhe e fotos reais no topo"
 }
