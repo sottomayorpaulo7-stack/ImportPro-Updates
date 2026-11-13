@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-21",
+ "versao": "2026.11.13-22",
  "pacote": "importpro.zip",
- "sha256": "b7146b2f1ae34264d8301a67faacf4df2acf1971f42c738ea1f63979e5ed4d48",
- "notas": "Na página inicial: top 10 dos carros mais procurados em Portugal com a margem de lucro ao importar, e gráficos de elétricos contra combustão. Os critérios de pesquisa passam a aparecer só nas páginas Importação e Nacional."
+ "sha256": "5ae371a33269ab1239cfc64afec07024bea19afe007f1d87353ccf286e63693e",
+ "notas": "Página inicial em formato de jornal: os 10 carros mais vendidos em Portugal, elétricos contra combustão, preços médios, os usados mais procurados com a margem de lucro, e fotografias dos seus melhores negócios."
 }
