@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-12",
+ "versao": "2026.11.13-13",
  "pacote": "importpro.zip",
- "sha256": "d0ca12fd53434a824d27b5fc91e556f5b14062410fb995572431fd1581638372",
- "notas": "Segurança reforçada (só a janela do ImportPro fala com o programa) e barra do topo corrigida em janelas estreitas"
+ "sha256": "5079911ae0d5c11c2b65ac8e46f74f782068b461eb9f8929eef6d3abb2a83ecf",
+ "notas": "ISV mais prudente, aviso de negócios bons demais, pesquisas guardadas, aviso de créditos, notas nos favoritos e imagem nova"
 }
