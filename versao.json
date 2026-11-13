@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-28",
+ "versao": "2026.11.13-29",
  "pacote": "importpro.zip",
- "sha256": "c924d993bd925edea8d155c0fd54d623060b2e2c2ad8da6e2e96cb0d7e744fae",
- "notas": "Barra de cima mais simples: saíram os botões Escolher marca e modelo e + filtro."
+ "sha256": "e25a4232a289381d724b428c10068cd30776a53edc27859cdb265475da434223",
+ "notas": "Resultados saem do menu lateral e ficam dentro de Importação e Nacional. Sugestões ordenadas pelo maior lucro, só com pelo menos 1500 euros."
 }
