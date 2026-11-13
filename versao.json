@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-17",
+ "versao": "2026.11.13-18",
  "pacote": "importpro.zip",
- "sha256": "bce570cbc9b3dbe7fa6d82a6f406e57738105b7387dee385718e1eabb58a6dc2",
- "notas": "Novo: pesquisa de oportunidades em Portugal (Standvirtual, OLX, PiscaPisca e CustoJusto), com as mesmas contas mas sem ISV nem transporte. Mais referências de preço na importação. O Firecrawl passou para A minha conta."
+ "sha256": "48002e71b102c813cc645c226d2ea32ea8b0911dec1a1499359a26789d1609af",
+ "notas": "Página inicial com sugestões do dia (importação e Portugal), página Mercado com as tendências de procura, e mais referências de preço nos modelos raros."
 }
