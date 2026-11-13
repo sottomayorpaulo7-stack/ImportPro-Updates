@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-11",
- "pacote": "https://raw.githubusercontent.com/sottomayorpaulo7-stack/ImportPro-Updates/main/importpro.zip",
- "sha256": "0ef4a622568f2c8ddfe06ba44d0299bdddf3b794bb27194c2028983db4dd2656",
- "notas": "Versão instalada e Procurar atualizações passam para A minha conta"
+ "versao": "2026.11.13-12",
+ "pacote": "importpro.zip",
+ "sha256": "d0ca12fd53434a824d27b5fc91e556f5b14062410fb995572431fd1581638372",
+ "notas": "Segurança reforçada (só a janela do ImportPro fala com o programa) e barra do topo corrigida em janelas estreitas"
 }
