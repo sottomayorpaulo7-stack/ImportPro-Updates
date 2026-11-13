@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-25",
+ "versao": "2026.11.13-26",
  "pacote": "importpro.zip",
- "sha256": "2bdb9ee7fe203b3436e6329413e97a3b0a1ba5fc3354ae4108f080307027cced",
- "notas": "Títulos da página inicial mais claros: carros novos (vendas) e carros usados (procura)."
+ "sha256": "64dc1f4ede632c6356aef038ccc50fc80a23d69a5dd2b18eba636fbffe0cf7a0",
+ "notas": "Página inicial só com os 10 usados mais procurados; saíram a lista dos carros novos mais vendidos e os dois gráficos de vendas de novos."
 }
