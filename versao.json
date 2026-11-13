@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-8",
+ "versao": "2026.11.13-9",
  "pacote": "https://raw.githubusercontent.com/sottomayorpaulo7-stack/ImportPro-Updates/main/importpro.zip",
- "sha256": "7d1ac45e4501e9f91f9f8f2c072ada49b621b5cb43c6b08cb2b84730f580fbfe",
- "notas": "Contas de utilizador: criar conta, entrar, recuperar palavra-passe e página A minha conta"
+ "sha256": "8346f6d9856a881023a47c232fb03ec50301fea0fe71589e5621600453e78b12",
+ "notas": "Retirada a opção Mudar o email (para outro email, criar conta nova e apagar a antiga)"
 }
