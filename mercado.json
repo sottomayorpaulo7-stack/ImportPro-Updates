@@ -1,0 +1,282 @@
+{
+ "atualizado": "2026-11-13",
+ "edicao": "Dados da ACAP até outubro de 2026 e do Standvirtual do 1.º semestre de 2026",
+ "titulo": "Peugeot 2008 na frente, com o Tesla Model 3 a 117 carros de distância",
+ "lede": "Entre janeiro e outubro venderam-se 205 507 ligeiros de passageiros novos em Portugal, mais 9,5% do que em 2025. Três em cada dez já são elétricos, e em outubro foram quase metade.",
+ "numeros": [
+  [
+   "Carros novos vendidos em 2026",
+   "205 507",
+   "de janeiro a outubro, mais 9,5% do que em 2025"
+  ],
+  [
+   "Preço médio de um usado num stand",
+   "25 700 €",
+   "preço anunciado em junho de 2026, o mais alto da série"
+  ],
+  [
+   "Preço médio de um elétrico usado",
+   "34 450 €",
+   "continua alto apesar de haver mais oferta"
+  ],
+  [
+   "Elétricos nas vendas de novos",
+   "30,3%",
+   "de janeiro a outubro; eram 23,2% em 2025"
+  ],
+  [
+   "Usados importados",
+   "67 264",
+   "no 1.º semestre, mais 16,3% do que em 2025"
+  ],
+  [
+   "Procura por elétricos usados",
+   "+68,7%",
+   "no 1.º semestre, face a 2025"
+  ]
+ ],
+ "vendidos": [
+  [
+   "Peugeot 2008",
+   6236
+  ],
+  [
+   "Tesla Model 3",
+   6119
+  ],
+  [
+   "Peugeot 208",
+   5239
+  ],
+  [
+   "Citroën C3",
+   5071
+  ],
+  [
+   "Dacia Sandero",
+   5011
+  ],
+  [
+   "Dacia Duster",
+   4417
+  ],
+  [
+   "Toyota Yaris Cross",
+   3572
+  ],
+  [
+   "Tesla Model Y",
+   3538
+  ],
+  [
+   "Renault Clio",
+   3523
+  ],
+  [
+   "SEAT Ibiza",
+   3316
+  ]
+ ],
+ "vendInfo": "Ligeiros de passageiros novos matriculados de janeiro a outubro de 2026 (ACAP). Em outubro os mais vendidos foram o Dacia Sandero (490), o Dacia Duster (430) e o Peugeot 2008 (421).",
+ "grafA": [
+  {
+   "t": "Vendas de carros novos por energia",
+   "s": "% das matrículas de janeiro a outubro de 2026",
+   "un": "%",
+   "d": [
+    [
+     "Híbridos e outras alternativas",
+     47.2
+    ],
+    [
+     "Elétricos",
+     30.3
+    ],
+    [
+     "Só gasolina ou gasóleo",
+     22.5
+    ]
+   ],
+   "n": "A ACAP publica os elétricos (30,3%) e o total de energias alternativas (77,5%); as outras duas barras são a diferença."
+  },
+  {
+   "t": "O peso dos elétricos está a subir depressa",
+   "s": "% dos carros novos vendidos",
+   "un": "%",
+   "d": [
+    [
+     "Ano de 2025",
+     23.2
+    ],
+    [
+     "Janeiro a outubro de 2026",
+     30.3
+    ],
+    [
+     "Só outubro de 2026",
+     44.9
+    ]
+   ],
+   "n": "Em setembro foram 47,7%, o máximo até agora."
+  }
+ ],
+ "graficos": [
+  {
+   "t": "O que se procura nos usados",
+   "s": "% da procura no Standvirtual, 1.º semestre de 2026",
+   "un": "%",
+   "d": [
+    [
+     "Gasóleo",
+     42.6
+    ],
+    [
+     "Gasolina e híbridos",
+     40.1
+    ],
+    [
+     "Elétricos",
+     17.3
+    ]
+   ],
+   "n": "“Gasolina e híbridos” é o resto: o relatório não os separa. Nos usados o gasóleo ainda manda, mas perdeu 6,6 pontos num ano."
+  },
+  {
+   "t": "Elétricos usados: mais procura do que oferta",
+   "s": "% do total de usados no Standvirtual",
+   "un": "%",
+   "d": [
+    [
+     "Elétricos na procura",
+     17.3
+    ],
+    [
+     "Elétricos nos anúncios",
+     10.27
+    ]
+   ],
+   "n": "Há mais gente à procura de elétricos do que elétricos à venda, o que segura os preços."
+  },
+  {
+   "t": "Usados importados por tipo de motor",
+   "s": "% das importações no 1.º semestre de 2026",
+   "un": "%",
+   "d": [
+    [
+     "Eletrificados",
+     44
+    ],
+    [
+     "Gasolina",
+     29
+    ],
+    [
+     "Gasóleo",
+     27
+    ]
+   ],
+   "n": "Pela primeira vez os eletrificados (elétricos e híbridos) são a maior fatia do que se importa."
+  },
+  {
+   "t": "Elétricos usados mais procurados",
+   "s": "% da procura por elétricos",
+   "un": "%",
+   "d": [
+    [
+     "Tesla Model 3",
+     7.6
+    ],
+    [
+     "BMW i3",
+     3.5
+    ],
+    [
+     "MG4",
+     1.9
+    ]
+   ],
+   "n": "O Tesla Model Y é o 3.º (valor não publicado)."
+  }
+ ],
+ "leituras": [
+  "Nos novos, o mercado já é dos elétricos e dos híbridos: só 22,5% dos carros vendidos em 2026 são apenas a gasolina ou a gasóleo.",
+  "Nos usados a mudança vai mais devagar. O gasóleo ainda é o mais procurado, mas os elétricos são os que mais crescem e há menos à venda do que gente a procurar.",
+  "Os carros até 15 000 € são os mais procurados e os que mais faltam: em janeiro a oferta nessa gama caiu 10%, enquanto acima de 30 000 € subiu 3%.",
+  "Desde junho a oferta de usados cresce mais do que a procura: há mais margem para negociar, sobretudo fora dos modelos mais procurados.",
+  "Na importação, os elétricos não pagam ISV e são a fatia que mais cresce."
+ ],
+ "fontes": [
+  [
+   "ACAP, matrículas até outubro de 2026 (via 4gnews)",
+   "https://4gnews.pt/peugeot-vs-tesla-disputa-pelo-carro-mais-vendido-em-portugal-esta-renhida/"
+  ],
+  [
+   "Standvirtual, Market Insights do 1.º semestre de 2026",
+   "https://www.standvirtual.com/diarioautomovel/os-10-usados-mais-procurados-em-portugal-mercedes-domina-e-a-tesla-ja-e-terceira-standvirtual-diario-automovel/"
+  ],
+  [
+   "Standvirtual, preço médio dos usados",
+   "https://www.standvirtual.com/diarioautomovel/preco-medio-dos-usados-bate-recorde-nos-25-700-euros-mas-esta-mesmo-a-subir-standvirtual-diario-automovel/"
+  ],
+  [
+   "Barómetro Standvirtual/ACAP (janeiro de 2026)",
+   "https://www.e-konomista.pt/procura-de-carros-usados-janeiro/"
+  ],
+  [
+   "Importações de usados no 1.º semestre",
+   "https://pplware.sapo.pt/?p=1132768"
+  ]
+ ],
+ "top10": [
+  [
+   "Mercedes-Benz",
+   "Classe E",
+   2.3
+  ],
+  [
+   "Mercedes-Benz",
+   "GLC",
+   1.9
+  ],
+  [
+   "Tesla",
+   "Model 3",
+   1.7
+  ],
+  [
+   "BMW",
+   "Série i",
+   1.6
+  ],
+  [
+   "Porsche",
+   "911",
+   1.4
+  ],
+  [
+   "Volvo",
+   "EX30",
+   1.4
+  ],
+  [
+   "Mercedes-Benz",
+   "CLA",
+   1.4
+  ],
+  [
+   "Tesla",
+   "Model Y",
+   1.3
+  ],
+  [
+   "Mercedes-Benz",
+   "Classe C",
+   1.3
+  ],
+  [
+   "BMW",
+   "Série 5",
+   1.3
+  ]
+ ]
+}

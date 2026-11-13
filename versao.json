@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-23",
+ "versao": "2026.11.13-24",
  "pacote": "importpro.zip",
- "sha256": "ccc351559f57d4dc35b88b5c2c286ba059461994455cc99c46bd61029ea1f964",
- "notas": "Página inicial sem a secção dos indicadores."
+ "sha256": "aecdf9a3a3a768db4a5994781d189f5c4fa75a3314e50079c60079bd137f564b",
+ "notas": "A página inicial passa a ler os dados do mercado sempre que abre, sem precisar de uma versão nova. Correção de segurança nas atualizações."
 }
