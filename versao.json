@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-31",
+ "versao": "2026.11.13-32",
  "pacote": "importpro.zip",
- "sha256": "55cf9e1456bbfaf93fdf5f90d0f3827c2bb062c636ca8aceb0982efc356f635e",
- "notas": "Correção: os anúncios do Standvirtual passam a ter fotografia. Novo: sinais de acidente ou danos marcados na lista e nas contas, com botão para ler as descrições dos anúncios."
+ "sha256": "524deadac6e386aacbf2d8e66a22fa21a53ef535b750489fe1dc092edacab630",
+ "notas": "O programa passa a chamar-se Carvest (drive your investment), com logótipo e ícone novos."
 }
