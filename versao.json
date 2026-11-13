@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-22",
+ "versao": "2026.11.13-23",
  "pacote": "importpro.zip",
- "sha256": "5ae371a33269ab1239cfc64afec07024bea19afe007f1d87353ccf286e63693e",
- "notas": "Página inicial em formato de jornal: os 10 carros mais vendidos em Portugal, elétricos contra combustão, preços médios, os usados mais procurados com a margem de lucro, e fotografias dos seus melhores negócios."
+ "sha256": "ccc351559f57d4dc35b88b5c2c286ba059461994455cc99c46bd61029ea1f964",
+ "notas": "Página inicial sem a secção dos indicadores."
 }
