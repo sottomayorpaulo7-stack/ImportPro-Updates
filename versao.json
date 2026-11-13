@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-26",
+ "versao": "2026.11.13-27",
  "pacote": "importpro.zip",
- "sha256": "64dc1f4ede632c6356aef038ccc50fc80a23d69a5dd2b18eba636fbffe0cf7a0",
- "notas": "Página inicial só com os 10 usados mais procurados; saíram a lista dos carros novos mais vendidos e os dois gráficos de vendas de novos."
+ "sha256": "a8f816caee2c7b47fb08bed78d778ebcc146ca06d197bad8a8e47da8784dfae1",
+ "notas": "Sugestões mais variadas (6 modelos de marcas diferentes, no máximo 2 carros por modelo). Página inicial sem a coluna das margens e sem as fotografias dos favoritos."
 }
