@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-7",
+ "versao": "2026.11.13-8",
  "pacote": "https://raw.githubusercontent.com/sottomayorpaulo7-stack/ImportPro-Updates/main/importpro.zip",
- "sha256": "09c23459d2ff2ca3e394602bf05cca0a933a13d1477c9c9a8b75d001a1bf85b9",
- "notas": "Na ⚙: versão instalada e botão Procurar atualizações"
+ "sha256": "7d1ac45e4501e9f91f9f8f2c072ada49b621b5cb43c6b08cb2b84730f580fbfe",
+ "notas": "Contas de utilizador: criar conta, entrar, recuperar palavra-passe e página A minha conta"
 }
