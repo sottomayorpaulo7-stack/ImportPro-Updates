@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.13-33",
+ "versao": "2026.11.14-1",
  "pacote": "importpro.zip",
- "sha256": "3d4659c623a1dd6afbefd8a6844f1b58ab2516b0251e85430b81a91b5769cefb",
- "notas": "Logótipo novo do Carvest, cores da plataforma em verde a condizer e slogan drive your investment no topo."
+ "sha256": "91e774b63abb85f6ec78dc32552e5bfefe4f5680695e8500379a6bd559c0ef78",
+ "notas": "Página inicial nova: animação do logótipo e do slogan no topo, números em destaque e gráficos mais fáceis de ler. Acidentes: etiquetas Acidentado e Possível acidentado, com leitura automática da descrição dos 20 carros com mais lucro."
 }
