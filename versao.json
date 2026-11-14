@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.14-1",
+ "versao": "2026.11.14-2",
  "pacote": "importpro.zip",
- "sha256": "91e774b63abb85f6ec78dc32552e5bfefe4f5680695e8500379a6bd559c0ef78",
- "notas": "Página inicial nova: animação do logótipo e do slogan no topo, números em destaque e gráficos mais fáceis de ler. Acidentes: etiquetas Acidentado e Possível acidentado, com leitura automática da descrição dos 20 carros com mais lucro."
+ "sha256": "bfe17530cd0dfece9bf3b43cff780a986c9723730628591c81abcf21718a4836",
+ "notas": "Fotos: veja todas as fotos do anúncio dentro do programa, com setas, miniaturas e ecrã inteiro. Página inicial: escolha até 3 anúncios para a montra. Pesquisa: fica só a barra de progresso."
 }
