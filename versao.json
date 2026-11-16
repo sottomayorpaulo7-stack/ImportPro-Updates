@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.14-2",
+ "versao": "2026.11.16-1",
  "pacote": "importpro.zip",
- "sha256": "bfe17530cd0dfece9bf3b43cff780a986c9723730628591c81abcf21718a4836",
- "notas": "Fotos: veja todas as fotos do anúncio dentro do programa, com setas, miniaturas e ecrã inteiro. Página inicial: escolha até 3 anúncios para a montra. Pesquisa: fica só a barra de progresso."
+ "sha256": "a54e7db1fe5eaf8de1bce8d2d581b38dce73ebdfc83de09c36d191b3a5f58086",
+ "notas": "Nota em cada carro (de S a D) com o risco e o que falta confirmar. Melhores oportunidades no topo da lista. No talão: quanto pagar no máximo para ter o retorno que definiu."
 }
