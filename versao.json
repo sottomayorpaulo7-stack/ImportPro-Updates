@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.16-1",
+ "versao": "2026.11.16-2",
  "pacote": "importpro.zip",
- "sha256": "a54e7db1fe5eaf8de1bce8d2d581b38dce73ebdfc83de09c36d191b3a5f58086",
- "notas": "Nota em cada carro (de S a D) com o risco e o que falta confirmar. Melhores oportunidades no topo da lista. No talão: quanto pagar no máximo para ter o retorno que definiu."
+ "sha256": "50db097b183b9f2e237a9a77c79b9fe161cec9072674acfa22a8164d3fa8e9bd",
+ "notas": "Favoritos com estado do negócio, notas e lucro real. Página inicial só com as melhores oportunidades. Repetir pesquisas e avisos de carros novos. Procurar por orçamento. Tempo provável de venda. Relatório em PDF e Excel mais completo."
 }
