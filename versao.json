@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.16-5",
+ "versao": "2026.11.16-6",
  "pacote": "importpro.zip",
- "sha256": "ee54fc287e376d09d9977b8d61e6c6d99bac3a46f02777a08bae30bee4af57cc",
- "notas": "A faixa das melhores oportunidades saiu de cima da lista: os resultados aparecem logo, por ordem de maior lucro."
+ "sha256": "f33ae48f67a4f5123b034170188c6c0f04d804b7c5b6371303e58f730e7c92f8",
+ "notas": "Editar pesquisa: nos resultados, mude os anos, os quilómetros, o preço e os outros critérios sem começar do zero. Se a mudança só aperta a pesquisa, a lista ajusta-se na hora, sem gastar créditos."
 }
