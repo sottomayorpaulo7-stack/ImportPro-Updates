@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.16-6",
+ "versao": "2026.11.16-7",
  "pacote": "importpro.zip",
- "sha256": "f33ae48f67a4f5123b034170188c6c0f04d804b7c5b6371303e58f730e7c92f8",
- "notas": "Editar pesquisa: nos resultados, mude os anos, os quilómetros, o preço e os outros critérios sem começar do zero. Se a mudança só aperta a pesquisa, a lista ajusta-se na hora, sem gastar créditos."
+ "sha256": "f3c1e5616ecf0bb171b39afd2287fa52a27246c87d3ebb619b2ffb1c4e31c450",
+ "notas": "Editar pesquisa: sem avisos de créditos e, quando é preciso ler os sites outra vez, a barra de progresso aparece nos resultados, sem sair do ecrã."
 }
