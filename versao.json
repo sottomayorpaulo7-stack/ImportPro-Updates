@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.16-8",
+ "versao": "2026.11.16-9",
  "pacote": "importpro.zip",
- "sha256": "f945d54d767768dae4c9cc372d6625082f22eabdaeea59a7b96568d92e12277e",
- "notas": "As pesquisas já não perguntam nada sobre créditos: leem sempre todos os anúncios."
+ "sha256": "93243a4dc67408efb2bc8e58deefa2ba191c08cfd10b8ff28e1fdbd2b5b1d7ec",
+ "notas": "Sem limites de créditos: as pesquisas e os avisos de carros novos leem sempre tudo, e pode ligar avisos em todas as pesquisas guardadas."
 }
