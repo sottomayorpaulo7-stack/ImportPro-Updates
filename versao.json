@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.16-7",
+ "versao": "2026.11.16-8",
  "pacote": "importpro.zip",
- "sha256": "f3c1e5616ecf0bb171b39afd2287fa52a27246c87d3ebb619b2ffb1c4e31c450",
- "notas": "Editar pesquisa: sem avisos de créditos e, quando é preciso ler os sites outra vez, a barra de progresso aparece nos resultados, sem sair do ecrã."
+ "sha256": "f945d54d767768dae4c9cc372d6625082f22eabdaeea59a7b96568d92e12277e",
+ "notas": "As pesquisas já não perguntam nada sobre créditos: leem sempre todos os anúncios."
 }
