@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.16-2",
+ "versao": "2026.11.16-3",
  "pacote": "importpro.zip",
- "sha256": "50db097b183b9f2e237a9a77c79b9fe161cec9072674acfa22a8164d3fa8e9bd",
- "notas": "Favoritos com estado do negócio, notas e lucro real. Página inicial só com as melhores oportunidades. Repetir pesquisas e avisos de carros novos. Procurar por orçamento. Tempo provável de venda. Relatório em PDF e Excel mais completo."
+ "sha256": "190de92afb2e3da48e1a713714204eb70fa0b3d606815f2e1609be709bd367af",
+ "notas": "Data de publicação de cada anúncio: aparece na lista e no detalhe (há quantos dias foi anunciado) e pode ordenar por anunciado há menos tempo."
 }
