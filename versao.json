@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-11",
+ "versao": "2026.11.17-12",
  "pacote": "importpro.zip",
- "sha256": "61f294c8bbe9df0e58885e6c72a2aa8f09f7e5695be0d564d97215fc43e41415",
- "notas": "Sem desconto de negociação: o preço de venda é a mediana do mercado. O parâmetro saiu do separador Custos."
+ "sha256": "519288e0c36f08fe731937bf30863f83bc0eac4bcaa6b69cfc201ae2ef228de3",
+ "notas": "Carros sem preço de venda: o aviso diz a razão de cada um (sem ano, sem anúncios em Portugal ou poucos anúncios para medir a desvalorização)."
 }
