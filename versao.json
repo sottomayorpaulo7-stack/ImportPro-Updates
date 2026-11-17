@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-2",
+ "versao": "2026.11.17-3",
  "pacote": "importpro.zip",
- "sha256": "50af489117f2b71ea753622cc53a1a1d41a3b82cab929a7cc6e375671c4ca6ca",
- "notas": "Preço de venda sem valores fixos: a desvalorização por ano e por quilómetro é medida nos anúncios do próprio modelo (Portugal e estrangeiro) em cada pesquisa."
+ "sha256": "f53036331ddb31a35801ed210144c32413a2734bc53f98d3933e834e80d1997d",
+ "notas": "Custos com fonte: taxas oficiais de 2026 (matrícula 45 €, registo 46,80 €), cada valor diz de onde vem; IVA certo do país de origem; venda provável com intervalo."
 }
