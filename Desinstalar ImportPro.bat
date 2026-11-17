@@ -7,7 +7,8 @@ echo   - a pasta do programa (%LOCALAPPDATA%\ImportaConsole), incluindo a chave 
 echo     a sessao da conta, os favoritos, as pesquisas, os ajustes e os registos;
 echo   - os atalhos no ambiente de trabalho e no menu Iniciar;
 echo   - das Transferencias e do Ambiente de trabalho: o instalador e os Excel do Carvest;
-echo   - os atalhos do Carvest nos ficheiros recentes do Windows.
+echo   - os atalhos do Carvest nos ficheiros recentes do Windows e na Reciclagem;
+echo   - os enderecos do Carvest escritos no Explorador e na janela Executar.
 echo  No fim abre as paginas do navegador para apagar os dados do Carvest
 echo  e pergunta se quer desinstalar o Python.
 echo.
@@ -22,24 +23,29 @@ if /I not "%OK%"=="SIM" (
 )
 
 echo.
-echo  [1/6] A fechar o Carvest...
+echo  [1/7] A fechar o Carvest...
 powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-CimInstance Win32_Process | Where-Object { $_.CommandLine -like '*ImportaConsole*servidor.py*' -or $_.CommandLine -like '*127.0.0.1:8766*' } | ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }"
 timeout /t 2 /nobreak >nul
 
-echo  [2/6] A apagar a pasta do programa...
+echo  [2/7] A apagar a pasta do programa...
 if exist "%LOCALAPPDATA%\ImportaConsole" rmdir /s /q "%LOCALAPPDATA%\ImportaConsole"
 
-echo  [3/6] A apagar os atalhos...
+echo  [3/7] A apagar os atalhos...
 powershell -NoProfile -ExecutionPolicy Bypass -Command "foreach ($p in @([Environment]::GetFolderPath('Desktop'), [Environment]::GetFolderPath('Programs'))) { foreach ($n in @('Carvest.lnk','ImportPro.lnk','Importa Console.lnk','Import Invest.lnk')) { $f = Join-Path $p $n; if (Test-Path $f) { Remove-Item $f -Force } } }"
 
-echo  [4/6] A apagar o instalador e os Excel do Carvest (Transferencias e Ambiente de trabalho)...
+echo  [4/7] A apagar o instalador e os Excel do Carvest (Transferencias e Ambiente de trabalho)...
 rem apaga sem passar pela Reciclagem; este desinstalador apaga-se a si proprio no fim
 powershell -NoProfile -ExecutionPolicy Bypass -Command "$eu = '%~f0'; $pastas = @((Join-Path $env:USERPROFILE 'Downloads'), [Environment]::GetFolderPath('Desktop')); foreach ($d in $pastas) { if (-not (Test-Path $d)) { continue }; Get-ChildItem -LiteralPath $d -File -ErrorAction SilentlyContinue | Where-Object { ($_.Name -like 'Instalar ImportPro*.bat' -or $_.Name -like 'Instalar Carvest*.bat' -or $_.Name -like 'Desinstalar ImportPro*.bat' -or $_.Name -like 'Desinstalar Carvest*.bat' -or $_.Name -like 'Carvest*.xlsx' -or $_.Name -like 'ImportPro*.xlsx' -or $_.Name -like 'Importa*.xlsx') -and $_.FullName -ne $eu } | ForEach-Object { Remove-Item -LiteralPath $_.FullName -Force -ErrorAction SilentlyContinue } }"
 
-echo  [5/6] A apagar o Carvest dos ficheiros recentes do Windows...
+echo  [5/7] A apagar o Carvest dos ficheiros recentes do Windows...
 powershell -NoProfile -ExecutionPolicy Bypass -Command "$r = Join-Path $env:APPDATA 'Microsoft\Windows\Recent'; if (Test-Path $r) { Get-ChildItem -LiteralPath $r -Filter *.lnk -ErrorAction SilentlyContinue | Where-Object { $_.Name -match 'Carvest|ImportPro|ImportaConsole|Importa Console' } | ForEach-Object { Remove-Item -LiteralPath $_.FullName -Force -ErrorAction SilentlyContinue } }"
 
-echo  [6/6] Dados do Carvest no navegador
+echo  [6/7] A apagar os ficheiros do Carvest que estejam na Reciclagem...
+powershell -NoProfile -ExecutionPolicy Bypass -Command "$sh = New-Object -ComObject Shell.Application; $rb = $sh.Namespace(10); if ($rb) { foreach ($it in @($rb.Items())) { if ($it.Name -match 'Carvest|ImportPro|ImportaConsole|Importa Console') { Remove-Item -LiteralPath $it.Path -Recurse -Force -ErrorAction SilentlyContinue } } }"
+echo  A apagar os enderecos do Carvest escritos no Explorador e na janela Executar...
+powershell -NoProfile -ExecutionPolicy Bypass -Command "foreach ($k in @('HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths','HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU')) { if (Test-Path $k) { $p = Get-ItemProperty -Path $k; foreach ($n in $p.PSObject.Properties.Name) { if ($n -notlike 'PS*' -and $n -ne 'MRUList' -and [string]$p.$n -match 'ImportaConsole|Carvest|ImportPro') { Remove-ItemProperty -Path $k -Name $n -ErrorAction SilentlyContinue } } } }"
+
+echo  [7/7] Dados do Carvest no navegador
 echo.
 echo  O Carvest abre numa janela do Edge ou do Chrome, que guarda os ajustes do separador
 echo  Custos e o historico do endereco 127.0.0.1. Isso so se apaga dentro do navegador.
