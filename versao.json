@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-1",
+ "versao": "2026.11.17-2",
  "pacote": "importpro.zip",
- "sha256": "bdf7b52d3d8cb8a78f6f75e33211614b6d21f5f5b673441022429b4682a208cd",
- "notas": "Preço de venda em Portugal mais fiável: os quilómetros contam sempre, anúncios repetidos contam uma vez, compara a mesma versão e acerta cada preço ao ano e aos km do seu carro. Cada carro mostra com quantos anúncios foi comparado."
+ "sha256": "50af489117f2b71ea753622cc53a1a1d41a3b82cab929a7cc6e375671c4ca6ca",
+ "notas": "Preço de venda sem valores fixos: a desvalorização por ano e por quilómetro é medida nos anúncios do próprio modelo (Portugal e estrangeiro) em cada pesquisa."
 }
