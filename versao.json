@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-14",
+ "versao": "2026.11.17-15",
  "pacote": "importpro.zip",
- "sha256": "69826e290e09513566d72d76cb13a144c574edb9c6533b5e95256ebc95ca392c",
- "notas": "Retirado o aviso dos carros sem preço de venda; a desvalorização é medida com mais anúncios (todos os combustíveis do modelo)."
+ "sha256": "d70c9b52fa0c27375e855338d70adc7805460f5f0904db8c91bfd14285b66ad7",
+ "notas": "O preço de venda escrito no talão passa a ser só uma simulação: a lista, a ordem e a nota usam sempre o preço calculado."
 }
