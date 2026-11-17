@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-5",
+ "versao": "2026.11.17-6",
  "pacote": "importpro.zip",
- "sha256": "2dff0909691855eb15345f9b200fa957d3c1c34b70af3f994d0a0974823a7701",
- "notas": "Plug-in sem autonomia no anúncio: ISV a 100% até confirmar, com o valor a 25% ao lado; lucro no pior caso; retorno por ano com os dias de dinheiro parado."
+ "sha256": "9453ed4b3b0bfa98ee9cbe22189227c1c3d17b3e322e9e4225d5c2783a6d43a6",
+ "notas": "Plug-in sem autonomia no anúncio: assume pelo menos 50 km (ISV a 25%) e mostra o ISV e o lucro se o carro não cumprir."
 }
