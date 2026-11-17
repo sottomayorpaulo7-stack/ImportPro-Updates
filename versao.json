@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-8",
+ "versao": "2026.11.17-9",
  "pacote": "importpro.zip",
- "sha256": "87d06985cadc10f20b2dd4bbf7b136df6335d8b79d2510049b89907047251414",
- "notas": "Tabela dos carros parecidos com o intervalo provável, a mediana e o intervalo depois da negociação."
+ "sha256": "116b9904d8284659c1f2beecd25ea0e53d8125b88262023c56f2c0524809d0d4",
+ "notas": "Um só intervalo de venda: a tabela dos carros parecidos mostra os mesmos valores do talão, já com a negociação."
 }
