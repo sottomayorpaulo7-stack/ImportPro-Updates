@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-17",
+ "versao": "2026.11.17-18",
  "pacote": "importpro.zip",
- "sha256": "7404b8b58cffae2bdee318c3071a066ee503358ee3c12bd4f558896137c41ac7",
- "notas": "Ligações seguras corrigidas para PCs novos: o Carvest traz os certificados de raiz e já não falha com CERTIFICATE_VERIFY_FAILED."
+ "sha256": "7ed6ff8358a5b5cbbc12bdfcd670d180f8c63f5b7b253040f1bea853018bbe18",
+ "notas": "Editar pesquisa: o painel abre por cima de tudo e já não fica cortado."
 }
