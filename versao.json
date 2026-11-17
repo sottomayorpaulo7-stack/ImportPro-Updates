@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-10",
+ "versao": "2026.11.17-11",
  "pacote": "importpro.zip",
- "sha256": "24f8270e2f251c3bade49aab5e4afc0d86ac8c4c5fa015b5d50a600e56415084",
- "notas": "O intervalo mostra os preços de mercado, sem negociação; o desconto de negociação só entra no preço de venda das contas."
+ "sha256": "61f294c8bbe9df0e58885e6c72a2aa8f09f7e5695be0d564d97215fc43e41415",
+ "notas": "Sem desconto de negociação: o preço de venda é a mediana do mercado. O parâmetro saiu do separador Custos."
 }
