@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-16",
+ "versao": "2026.11.17-17",
  "pacote": "importpro.zip",
- "sha256": "ab8540591b359fc5bf508597b613ccf6c363a0feba949dff6da200b357a8ee99",
- "notas": "Perfil: quando não há ligação ao Firecrawl, mostra o detalhe do erro."
+ "sha256": "7404b8b58cffae2bdee318c3071a066ee503358ee3c12bd4f558896137c41ac7",
+ "notas": "Ligações seguras corrigidas para PCs novos: o Carvest traz os certificados de raiz e já não falha com CERTIFICATE_VERIFY_FAILED."
 }
