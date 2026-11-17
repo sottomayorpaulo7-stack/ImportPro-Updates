@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-18",
+ "versao": "2026.11.17-19",
  "pacote": "importpro.zip",
- "sha256": "7ed6ff8358a5b5cbbc12bdfcd670d180f8c63f5b7b253040f1bea853018bbe18",
- "notas": "Editar pesquisa: o painel abre por cima de tudo e já não fica cortado."
+ "sha256": "0e4ba07a058b676550d6b43ff3be28c73b1de2cd64781041aafbc6727dd04fb9",
+ "notas": "Preço de venda mais realista: mais peso nos carros mais parecidos, anúncios parados há muito ficam de fora e o intervalo de mercado é medido em todos os anúncios do modelo."
 }
