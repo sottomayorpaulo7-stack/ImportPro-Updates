@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-25",
+ "versao": "2026.11.17-26",
  "pacote": "importpro.zip",
- "sha256": "117db59491f45d31ac05da8db7201a4c3ff9ce700457c0f6488a0e3868788a07",
- "notas": "Tabela dos carros parecidos mais simples: sem a coluna dos preços acertados"
+ "sha256": "2bcba825e47c3663c941cb8d9ce6f5e5f7f535958ebb620647540be1250892a6",
+ "notas": "Carros parecidos com preço fora do intervalo de mercado ficam a cinzento"
 }
