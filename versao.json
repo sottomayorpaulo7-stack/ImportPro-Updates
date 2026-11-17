@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-21",
+ "versao": "2026.11.17-22",
  "pacote": "importpro.zip",
- "sha256": "aa45214b7c06c4d22c19503ecb935772bed08686e7390ea5ec4c82a3e3229321",
- "notas": "Intervalo de mercado mais estreito: a diferença de preço entre versões (potência) é medida e descontada, e a variação mede-se também nos anúncios estrangeiros quando há poucos em Portugal"
+ "sha256": "552bfcc6731c0dc1a5bf6fbcfdd2638ea312130a3bcf71da02e54b31da117904",
+ "notas": "Preço de venda mais credível: diferença particular/stand medida nos anúncios, anúncios fora do normal ignorados e precisão testada em cada pesquisa (mostrada no talão)"
 }
