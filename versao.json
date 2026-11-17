@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-6",
+ "versao": "2026.11.17-7",
  "pacote": "importpro.zip",
- "sha256": "9453ed4b3b0bfa98ee9cbe22189227c1c3d17b3e322e9e4225d5c2783a6d43a6",
- "notas": "Plug-in sem autonomia no anúncio: assume pelo menos 50 km (ISV a 25%) e mostra o ISV e o lucro se o carro não cumprir."
+ "sha256": "c6ffa194d1e27b43e87a8b7caacad014861ad00fa3cf8b39b3a60a9a6c5f605f",
+ "notas": "Retirado o retorno por ano do talão."
 }
