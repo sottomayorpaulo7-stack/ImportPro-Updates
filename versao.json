@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-7",
+ "versao": "2026.11.17-8",
  "pacote": "importpro.zip",
- "sha256": "c6ffa194d1e27b43e87a8b7caacad014861ad00fa3cf8b39b3a60a9a6c5f605f",
- "notas": "Retirado o retorno por ano do talão."
+ "sha256": "87d06985cadc10f20b2dd4bbf7b136df6335d8b79d2510049b89907047251414",
+ "notas": "Tabela dos carros parecidos com o intervalo provável, a mediana e o intervalo depois da negociação."
 }
