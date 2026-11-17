@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-24",
+ "versao": "2026.11.17-25",
  "pacote": "importpro.zip",
- "sha256": "0004d48efab5da434a10feb07a68a11a366f23f56d2f77403cd12025a18608df",
- "notas": "Histórico de mercado: o Carvest guarda os anúncios portugueses de cada pesquisa; os carros que saem do mercado (vendidos) passam a dar o preço de venda quando há 3 ou mais parecidos"
+ "sha256": "117db59491f45d31ac05da8db7201a4c3ff9ce700457c0f6488a0e3868788a07",
+ "notas": "Tabela dos carros parecidos mais simples: sem a coluna dos preços acertados"
 }
