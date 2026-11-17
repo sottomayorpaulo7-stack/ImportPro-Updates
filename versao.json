@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-15",
+ "versao": "2026.11.17-16",
  "pacote": "importpro.zip",
- "sha256": "d70c9b52fa0c27375e855338d70adc7805460f5f0904db8c91bfd14285b66ad7",
- "notas": "O preço de venda escrito no talão passa a ser só uma simulação: a lista, a ordem e a nota usam sempre o preço calculado."
+ "sha256": "ab8540591b359fc5bf508597b613ccf6c363a0feba949dff6da200b357a8ee99",
+ "notas": "Perfil: quando não há ligação ao Firecrawl, mostra o detalhe do erro."
 }
