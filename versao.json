@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-22",
+ "versao": "2026.11.17-23",
  "pacote": "importpro.zip",
- "sha256": "552bfcc6731c0dc1a5bf6fbcfdd2638ea312130a3bcf71da02e54b31da117904",
- "notas": "Preço de venda mais credível: diferença particular/stand medida nos anúncios, anúncios fora do normal ignorados e precisão testada em cada pesquisa (mostrada no talão)"
+ "sha256": "8e139bd7063e394035f7e1a71eaf7b12f51a4fece733768b34b35248e8400e55",
+ "notas": "Deteta carros importados de fora da UE também em inglês e português (ex.: import from US); lê a descrição de todos os carros com lucro, mais depressa"
 }
