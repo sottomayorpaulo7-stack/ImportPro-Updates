@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-3",
+ "versao": "2026.11.17-4",
  "pacote": "importpro.zip",
- "sha256": "f53036331ddb31a35801ed210144c32413a2734bc53f98d3933e834e80d1997d",
- "notas": "Custos com fonte: taxas oficiais de 2026 (matrícula 45 €, registo 46,80 €), cada valor diz de onde vem; IVA certo do país de origem; venda provável com intervalo."
+ "sha256": "1fd2a832946ad6b41d2ccc8a7183c92c303b7f4ec079cc87ca0ae005dad19311",
+ "notas": "Ajuda atualizada: de onde vêm os custos, IVA do país de origem e intervalo de venda provável."
 }
