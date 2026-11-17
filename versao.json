@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-12",
+ "versao": "2026.11.17-13",
  "pacote": "importpro.zip",
- "sha256": "519288e0c36f08fe731937bf30863f83bc0eac4bcaa6b69cfc201ae2ef228de3",
- "notas": "Carros sem preço de venda: o aviso diz a razão de cada um (sem ano, sem anúncios em Portugal ou poucos anúncios para medir a desvalorização)."
+ "sha256": "cd790f57e358eeaf24f0f82aa0117466e87b0a6a4af2fe59910d9f8bf85d3547",
+ "notas": "Texto mais curto na tabela dos carros parecidos."
 }
