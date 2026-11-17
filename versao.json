@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-13",
+ "versao": "2026.11.17-14",
  "pacote": "importpro.zip",
- "sha256": "cd790f57e358eeaf24f0f82aa0117466e87b0a6a4af2fe59910d9f8bf85d3547",
- "notas": "Texto mais curto na tabela dos carros parecidos."
+ "sha256": "69826e290e09513566d72d76cb13a144c574edb9c6533b5e95256ebc95ca392c",
+ "notas": "Retirado o aviso dos carros sem preço de venda; a desvalorização é medida com mais anúncios (todos os combustíveis do modelo)."
 }
