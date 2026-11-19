@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.17-26",
+ "versao": "2026.11.19-1",
  "pacote": "importpro.zip",
- "sha256": "2bcba825e47c3663c941cb8d9ce6f5e5f7f535958ebb620647540be1250892a6",
- "notas": "Carros parecidos com preço fora do intervalo de mercado ficam a cinzento"
+ "sha256": "e44ad5ef551eb35b9638eb95186fc57bbbbe5861b8ec5a1948e349efea82cb66",
+ "notas": "VIN: lido na descrição dos anúncios ou escrito em Corrigir dados; atalho para o histórico no carVertical; aviso se o mesmo VIN aparecer noutro anúncio com outros quilómetros"
 }
