@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.20-9",
+ "versao": "2026.11.20-10",
  "pacote": "importpro.zip",
- "sha256": "956bcc1f56ef4f314684e578db36427b3d0e2c8dcde0cce693e60ea568737f0e",
- "notas": "Novo campo Quilómetros desde: pode pesquisar entre um mínimo e um máximo de quilómetros (no formulário e em Editar pesquisa)"
+ "sha256": "cfe163f76d10dec996f540c278ecd116c9a7ced435a9d58b2b4556f6ea99dea3",
+ "notas": "No talão pode escrever a Preparação e revisão e os Custos do stand de cada carro (muda só as contas desse carro). Os quilómetros desde e até aceitam qualquer valor"
 }
