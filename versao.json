@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.20-5",
+ "versao": "2026.11.20-6",
  "pacote": "importpro.zip",
- "sha256": "c92a7e5dc2b86aa874303bec832f0aa06e3a091a994aa5b1d8c05ce9be1a6d64",
- "notas": "Pode escolher vários motores (submodelos) na mesma pesquisa; correção do histórico de mercado por submodelo"
+ "sha256": "42ee7ddfcbd3e203b2ff1f4ff220069f5acc3f0b0a4c0065b64e72a121edc7d6",
+ "notas": "ISV com os dados do anúncio: o CO₂, a cilindrada e a autonomia elétrica passam a ser lidos na página de cada anúncio (em vez de estimados) e já não se somam 20% ao CO₂ dos carros de 2019 a 2023"
 }
