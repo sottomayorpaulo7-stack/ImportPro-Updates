@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.20-4",
+ "versao": "2026.11.20-5",
  "pacote": "importpro.zip",
- "sha256": "d05d5908e7a0a10d6ea1474c3ed5e8691e0ca1f2d8c3779a60dcc96917cd66eb",
- "notas": "Correção: o mobile.de mudou as páginas de modelo e o Carvest deixou de encontrar o código do modelo; agora usa a lista oficial de modelos do mobile.de"
+ "sha256": "c92a7e5dc2b86aa874303bec832f0aa06e3a091a994aa5b1d8c05ce9be1a6d64",
+ "notas": "Pode escolher vários motores (submodelos) na mesma pesquisa; correção do histórico de mercado por submodelo"
 }
