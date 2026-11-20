@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.20-7",
+ "versao": "2026.11.20-8",
  "pacote": "importpro.zip",
- "sha256": "1d671dec51610add0d641269cb8bdf7d9bf7141cc0d10552cbf5686404810c2a",
- "notas": "Preço de venda dos híbridos corrigido: os híbridos e os carros a GPL do Standvirtual eram lidos como gasolina, por isso um híbrido era comparado com carros errados (ex.: Clio híbrido novo a 13 000 €). Os gasóleo mild hybrid passam a pagar o ISV e o IUC do gasóleo"
+ "sha256": "3196d9a2f82634f94bd58f28ba3f3a24f872a5190b16c024dd043a83c9fd3861",
+ "notas": "O preço de venda nunca fica acima de um carro igual ou melhor que já esteja à venda em Portugal (mesmo ano ou mais novo, com os mesmos quilómetros ou menos)"
 }
