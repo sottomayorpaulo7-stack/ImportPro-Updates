@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.20-3",
+ "versao": "2026.11.20-4",
  "pacote": "importpro.zip",
- "sha256": "2322e12b70d11dd2f69cde6c09cffe040feb4d18c86dba1c6f912c05d02164b7",
- "notas": "Preço de venda com um só método para todos os carros: mesma versão exata, anúncios portugueses do mesmo ano ou mais velhos, desvalorização medida só nos anúncios portugueses quando há 8 ou mais"
+ "sha256": "d05d5908e7a0a10d6ea1474c3ed5e8691e0ca1f2d8c3779a60dcc96917cd66eb",
+ "notas": "Correção: o mobile.de mudou as páginas de modelo e o Carvest deixou de encontrar o código do modelo; agora usa a lista oficial de modelos do mobile.de"
 }
