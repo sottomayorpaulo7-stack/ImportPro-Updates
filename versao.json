@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.20-8",
+ "versao": "2026.11.20-9",
  "pacote": "importpro.zip",
- "sha256": "3196d9a2f82634f94bd58f28ba3f3a24f872a5190b16c024dd043a83c9fd3861",
- "notas": "O preço de venda nunca fica acima de um carro igual ou melhor que já esteja à venda em Portugal (mesmo ano ou mais novo, com os mesmos quilómetros ou menos)"
+ "sha256": "956bcc1f56ef4f314684e578db36427b3d0e2c8dcde0cce693e60ea568737f0e",
+ "notas": "Novo campo Quilómetros desde: pode pesquisar entre um mínimo e um máximo de quilómetros (no formulário e em Editar pesquisa)"
 }
