@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.20-6",
+ "versao": "2026.11.20-7",
  "pacote": "importpro.zip",
- "sha256": "42ee7ddfcbd3e203b2ff1f4ff220069f5acc3f0b0a4c0065b64e72a121edc7d6",
- "notas": "ISV com os dados do anúncio: o CO₂, a cilindrada e a autonomia elétrica passam a ser lidos na página de cada anúncio (em vez de estimados) e já não se somam 20% ao CO₂ dos carros de 2019 a 2023"
+ "sha256": "1d671dec51610add0d641269cb8bdf7d9bf7141cc0d10552cbf5686404810c2a",
+ "notas": "Preço de venda dos híbridos corrigido: os híbridos e os carros a GPL do Standvirtual eram lidos como gasolina, por isso um híbrido era comparado com carros errados (ex.: Clio híbrido novo a 13 000 €). Os gasóleo mild hybrid passam a pagar o ISV e o IUC do gasóleo"
 }
