@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.20-2",
+ "versao": "2026.11.20-3",
  "pacote": "importpro.zip",
- "sha256": "8a9cd45271ce4736ee3816fa144a2d5fa9e95c81a9f3f5f85fc143aad265bbc8",
- "notas": "Preço de venda sempre calculado: a estimativa usa só carros da mesma versão do mesmo ano ou mais velhos (nunca mais novos) e, sem eles, a fórmula medida nos anúncios"
+ "sha256": "2322e12b70d11dd2f69cde6c09cffe040feb4d18c86dba1c6f912c05d02164b7",
+ "notas": "Preço de venda com um só método para todos os carros: mesma versão exata, anúncios portugueses do mesmo ano ou mais velhos, desvalorização medida só nos anúncios portugueses quando há 8 ou mais"
 }
