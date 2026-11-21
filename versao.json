@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.20-11",
+ "versao": "2026.11.21-1",
  "pacote": "importpro.zip",
- "sha256": "9ddde1c2b4fb207d1f1a33fc3e16778a0583e21352739f9121a1985c237ea0b9",
- "notas": "Preços em Portugal corrigidos para BMW Série, Mercedes Classe e Volkswagen (o endereço do Standvirtual estava errado e trazia poucos anúncios). Híbridos e plug-in comparados pelo motor e não pela potência do anúncio. Aviso de extrapolação quando não há carros com quilómetros parecidos"
+ "sha256": "cb7ecef0a4b0b566e37c56a0ed96945fadd302d3a55fe3d22f7bc937928cc67e",
+ "notas": "Audi A3 e-tron anunciado como elétrico passa a ser lido como híbrido plug-in (antes saía sem ISV, como se fosse 100% elétrico)"
 }
