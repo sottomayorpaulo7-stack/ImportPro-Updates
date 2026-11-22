@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.21-1",
+ "versao": "2026.11.22-1",
  "pacote": "importpro.zip",
- "sha256": "cb7ecef0a4b0b566e37c56a0ed96945fadd302d3a55fe3d22f7bc937928cc67e",
- "notas": "Audi A3 e-tron anunciado como elétrico passa a ser lido como híbrido plug-in (antes saía sem ISV, como se fosse 100% elétrico)"
+ "sha256": "c27635e3f74123428532c8ded40abb155936e4f84901f915d892015617f33e81",
+ "notas": "AutoScout24: quando o vendedor repete o modelo na versão (ex.: C 300 + C 300 de), o motor passa a ser bem reconhecido e o plug-in é comparado com os carros certos; coches.net: endereço das classes Mercedes (A, B, C, E, S, V) corrigido"
 }
