@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-1",
+ "versao": "2026.11.22-2",
  "pacote": "importpro.zip",
- "sha256": "c27635e3f74123428532c8ded40abb155936e4f84901f915d892015617f33e81",
- "notas": "AutoScout24: quando o vendedor repete o modelo na versão (ex.: C 300 + C 300 de), o motor passa a ser bem reconhecido e o plug-in é comparado com os carros certos; coches.net: endereço das classes Mercedes (A, B, C, E, S, V) corrigido"
+ "sha256": "c1f71a773c413f2a65c668215e5c59b9f365a3fe7dedbf993b14103968c69b1d",
+ "notas": "Preço de venda: quando não há a mesma versão em Portugal, o carro é comparado só com as versões de potência mais próxima (um C 180 já não é comparado com C 43 e C 63 AMG)"
 }
