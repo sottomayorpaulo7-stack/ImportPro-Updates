@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-11",
+ "versao": "2026.11.22-12",
  "pacote": "importpro.zip",
- "sha256": "278a0dd476830ca469aee84b74a0821bd7951150d51d4e109818650c35d48c37",
- "notas": "Detalhe do carro: a foto deixa de ficar enorme e já não aparece a barra horizontal em ecrãs de portátil; a foto volta a ficar ao lado do talão"
+ "sha256": "be3c9ca52cb948a3b3728cf2b47da5436dfcce9595853c2afe94d2220f532d16",
+ "notas": "Avaliação do Claude: corrigido o erro 'formato que não consegui ler' (mais espaço para a resposta, repete sozinho e mostra o que veio se falhar)"
 }
