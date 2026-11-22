@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-16",
+ "versao": "2026.11.22-17",
  "pacote": "importpro.zip",
- "sha256": "ae98abdd8046a4d0e8d853fe40156625608099bad4f5a85bed8093885ccbe574",
- "notas": "Carros parecidos: só a tabela, sem os textos de explicação"
+ "sha256": "348d39e3a1f8a0dfcc6f70f98d5b573aa5f69ba3f28c73a586190e2f86f65d3a",
+ "notas": "Avaliação mais curta: 'Preço de venda médio', sem o texto do raciocínio; no talão a etiqueta passa a 'Médio'"
 }
