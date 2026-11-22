@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-17",
+ "versao": "2026.11.22-18",
  "pacote": "importpro.zip",
- "sha256": "348d39e3a1f8a0dfcc6f70f98d5b573aa5f69ba3f28c73a586190e2f86f65d3a",
- "notas": "Avaliação mais curta: 'Preço de venda médio', sem o texto do raciocínio; no talão a etiqueta passa a 'Médio'"
+ "sha256": "ab6de05a77237b00ed92887a54a288ef6ca32b9cc79831f840feeb38a377ea87",
+ "notas": "Avaliação do Carvest: sem a linha da data e do custo; ligação Re-submeter para avaliação do Carvest"
 }
