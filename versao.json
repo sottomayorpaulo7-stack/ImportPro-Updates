@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-21",
+ "versao": "2026.11.22-22",
  "pacote": "importpro.zip",
- "sha256": "4f1fddc755db3ee8c7ab7f771ef82c80c046364fe04385a5dc31c21869c01d2e",
- "notas": "Página inicial como no desenho aprovado: logótipo pequeno animado no topo, sem a faixa grande nem a linha Continuar"
+ "sha256": "4abbf92706a68378cdfc85ff4717f929c24a06828eefd22fed816dd8224505e3",
+ "notas": "Barra de cima sem o nome e o slogan repetidos"
 }
