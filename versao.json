@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-13",
+ "versao": "2026.11.22-14",
  "pacote": "importpro.zip",
- "sha256": "6c90d4a2f21e429c712457f40d9a432f63207a44104c4ce98d1f9c3201c5a366",
- "notas": "Ecrã dos resultados mais limpo: lista de uma linha por carro, lucro em destaque no talão, menos informação à vista"
+ "sha256": "f4eae158e899f07b6a4068accc5dc71dd6bdd92e1d257365c00f295695125cc2",
+ "notas": "O Claude dá sempre um preço de venda: nos casos difíceis (acidente, poucos anúncios) dá uma estimativa prudente, marcada como estimativa"
 }
