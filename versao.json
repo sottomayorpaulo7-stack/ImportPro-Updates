@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-6",
+ "versao": "2026.11.22-7",
  "pacote": "importpro.zip",
- "sha256": "38c2e07ad8100238db06187ab47f5d00277ffe2373632ee8881d334e7a8a1c6e",
- "notas": "O Claude avalia sozinho todos os carros com lucro depois de cada pesquisa e o preço de venda dele entra nas contas (lista, nota e talão); a avaliação do programa aparece numa linha própria do talão"
+ "sha256": "effa179b6c6b304dd2802405158d252dfc4532f45ee158443fa183c1b34e03b1",
+ "notas": "Claude avalia todos os resultados de cada pesquisa; catálogo conferido em 35 marcas (BMW X, i, M e Z, Audi, Mercedes CLA a GLS, Volvo XC e outros passam a ter os preços portugueses certos); Repetir abre a página da pesquisa; Pesquisas recentes"
 }
