@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-19",
+ "versao": "2026.11.22-20",
  "pacote": "importpro.zip",
- "sha256": "9ae21e45a6a233697a4f5e41a16f937ae209f0d9695053c004374026bfb71b08",
- "notas": "Descrição do anúncio traduzida para português ao abrir o carro e sem código HTML à vista"
+ "sha256": "f209528297ed40d041a9226e5bb6e9d6346137e64768ce2e0ac4ebd2f8cecd43",
+ "notas": "Página inicial mais limpa: pesquisar e continuar logo no topo, melhores negócios, mercado mais compacto (logótipo animado mantido)"
 }
