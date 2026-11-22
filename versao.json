@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-9",
+ "versao": "2026.11.22-10",
  "pacote": "importpro.zip",
- "sha256": "0bcec0693a5b715c2954afda6542c96b008ecd41bf34594e92ffb3767082d8a8",
- "notas": "Menu lateral novo: mais largo, com o nome ao lado de cada ícone, grupos bem separados e a página ativa em destaque"
+ "sha256": "6f9d7ad02ab5a2e47391c92347985564f52cd2a5aca0185afb6a089d6814bf98",
+ "notas": "OLX: o endereço da Volkswagen estava errado (as pesquisas de VW ficavam sem os preços do OLX e aparecia um erro); preço dos anúncios do OLX lido do campo certo"
 }
