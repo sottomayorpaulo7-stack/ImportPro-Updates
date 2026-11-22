@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-10",
+ "versao": "2026.11.22-11",
  "pacote": "importpro.zip",
- "sha256": "6f9d7ad02ab5a2e47391c92347985564f52cd2a5aca0185afb6a089d6814bf98",
- "notas": "OLX: o endereço da Volkswagen estava errado (as pesquisas de VW ficavam sem os preços do OLX e aparecia um erro); preço dos anúncios do OLX lido do campo certo"
+ "sha256": "278a0dd476830ca469aee84b74a0821bd7951150d51d4e109818650c35d48c37",
+ "notas": "Detalhe do carro: a foto deixa de ficar enorme e já não aparece a barra horizontal em ecrãs de portátil; a foto volta a ficar ao lado do talão"
 }
