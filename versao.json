@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-4",
+ "versao": "2026.11.22-5",
  "pacote": "importpro.zip",
- "sha256": "627321af9bdded6f58cde80ae23b9ea0487218d70755eee89179e41649ee9699",
- "notas": "Novo: opinião do Claude no detalhe de cada carro (confere se os carros comparados são iguais e dá um preço de venda); a chave do Claude guarda-se em Conta. Não muda o lucro nem a lista"
+ "sha256": "9e786c6337a5bb9898a7d1ec9506096fbcace09a72fd44d5ad6c5adc4606c911",
+ "notas": "Volkswagen ID.3, ID.4 e ID.5: o Standvirtual não devolvia anúncios (nome do modelo errado), por isso faltavam preços portugueses de referência"
 }
