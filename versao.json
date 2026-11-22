@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-2",
+ "versao": "2026.11.22-3",
  "pacote": "importpro.zip",
- "sha256": "c1f71a773c413f2a65c668215e5c59b9f365a3fe7dedbf993b14103968c69b1d",
- "notas": "Preço de venda: quando não há a mesma versão em Portugal, o carro é comparado só com as versões de potência mais próxima (um C 180 já não é comparado com C 43 e C 63 AMG)"
+ "sha256": "ed3478022d33c817cb545809a6dcb5136fd9f0786fcb1194b87cb3f8729493c4",
+ "notas": "Golf GTI, GTD, GTE, R e e-Golf: o AutoScout24 passa a ler a lista própria de cada um; no mobile.de e no Standvirtual a sigla (ex.: GTI) vai na pesquisa, por isso deixam de faltar anúncios e o preço de venda é comparado com GTI portugueses"
 }
