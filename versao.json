@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-8",
+ "versao": "2026.11.22-9",
  "pacote": "importpro.zip",
- "sha256": "384899f882114b2b253e13e0a839518f5c39279a8bf7593bba2232ee27107f33",
- "notas": "Layout novo: menu em grupos com Definições (chaves do Firecrawl e do Claude), estado da pesquisa e do Claude sempre visível no topo, detalhe do carro em dois separadores (Avaliação e Anúncio)"
+ "sha256": "0bcec0693a5b715c2954afda6542c96b008ecd41bf34594e92ffb3767082d8a8",
+ "notas": "Menu lateral novo: mais largo, com o nome ao lado de cada ícone, grupos bem separados e a página ativa em destaque"
 }
