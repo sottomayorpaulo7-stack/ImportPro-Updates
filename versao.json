@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-15",
+ "versao": "2026.11.22-16",
  "pacote": "importpro.zip",
- "sha256": "dfc1be62d354667d2e6c492d0ccfc0e740330b225b47506bac0a6715995dea5e",
- "notas": "A palavra Estimativa aparece só na Avaliação do carro, não no talão"
+ "sha256": "ae98abdd8046a4d0e8d853fe40156625608099bad4f5a85bed8093885ccbe574",
+ "notas": "Carros parecidos: só a tabela, sem os textos de explicação"
 }
