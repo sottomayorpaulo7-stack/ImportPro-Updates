@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-22",
+ "versao": "2026.11.22-23",
  "pacote": "importpro.zip",
- "sha256": "4abbf92706a68378cdfc85ff4717f929c24a06828eefd22fed816dd8224505e3",
- "notas": "Barra de cima sem o nome e o slogan repetidos"
+ "sha256": "0235bd4116b9766184a266834ca6493f2e49bc11cefc500acb7082619c09d613",
+ "notas": "Menu lateral como no desenho: só os nomes, sem ícones"
 }
