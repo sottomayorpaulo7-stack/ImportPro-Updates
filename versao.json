@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-12",
+ "versao": "2026.11.22-13",
  "pacote": "importpro.zip",
- "sha256": "be3c9ca52cb948a3b3728cf2b47da5436dfcce9595853c2afe94d2220f532d16",
- "notas": "Avaliação do Claude: corrigido o erro 'formato que não consegui ler' (mais espaço para a resposta, repete sozinho e mostra o que veio se falhar)"
+ "sha256": "6c90d4a2f21e429c712457f40d9a432f63207a44104c4ce98d1f9c3201c5a366",
+ "notas": "Ecrã dos resultados mais limpo: lista de uma linha por carro, lucro em destaque no talão, menos informação à vista"
 }
