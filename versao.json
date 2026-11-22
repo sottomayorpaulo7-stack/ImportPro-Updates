@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-14",
+ "versao": "2026.11.22-15",
  "pacote": "importpro.zip",
- "sha256": "f4eae158e899f07b6a4068accc5dc71dd6bdd92e1d257365c00f295695125cc2",
- "notas": "O Claude dá sempre um preço de venda: nos casos difíceis (acidente, poucos anúncios) dá uma estimativa prudente, marcada como estimativa"
+ "sha256": "dfc1be62d354667d2e6c492d0ccfc0e740330b225b47506bac0a6715995dea5e",
+ "notas": "A palavra Estimativa aparece só na Avaliação do carro, não no talão"
 }
