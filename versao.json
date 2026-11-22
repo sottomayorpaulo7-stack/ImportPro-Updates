@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.22-20",
+ "versao": "2026.11.22-21",
  "pacote": "importpro.zip",
- "sha256": "f209528297ed40d041a9226e5bb6e9d6346137e64768ce2e0ac4ebd2f8cecd43",
- "notas": "Página inicial mais limpa: pesquisar e continuar logo no topo, melhores negócios, mercado mais compacto (logótipo animado mantido)"
+ "sha256": "4f1fddc755db3ee8c7ab7f771ef82c80c046364fe04385a5dc31c21869c01d2e",
+ "notas": "Página inicial como no desenho aprovado: logótipo pequeno animado no topo, sem a faixa grande nem a linha Continuar"
 }
