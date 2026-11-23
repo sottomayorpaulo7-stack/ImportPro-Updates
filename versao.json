@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-17",
+ "versao": "2026.11.23-18",
  "pacote": "importpro.zip",
- "sha256": "29c5eb8b5b768ec80238ab7f8307187244c86027fe8d486c40db06df571d5e86",
- "notas": "Os tipos de carro passam a respeitar os anos e os quilómetros pedidos na pesquisa"
+ "sha256": "630a9728709c1c4f87e8521b95d315c3fa57575ab97ba2c60c67e8cb69499ff2",
+ "notas": "Resultados mais arrumados: uma linha por tipo de carro, com os intervalos de anos e quilómetros por baixo"
 }
