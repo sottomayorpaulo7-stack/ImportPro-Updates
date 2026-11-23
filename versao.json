@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-16",
+ "versao": "2026.11.23-17",
  "pacote": "importpro.zip",
- "sha256": "a55bb024ebdf7ec3e12e7bb4becd23cb3cfa13c7fc641afa3aa7b4e92d8d7528",
- "notas": "Os tipos com mais lucro já aparecem com as descrições lidas e os carros avaliados; a avaliação deixa de começar só ao abrir"
+ "sha256": "29c5eb8b5b768ec80238ab7f8307187244c86027fe8d486c40db06df571d5e86",
+ "notas": "Os tipos de carro passam a respeitar os anos e os quilómetros pedidos na pesquisa"
 }
