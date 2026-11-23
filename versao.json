@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-3",
+ "versao": "2026.11.23-4",
  "pacote": "importpro.zip",
- "sha256": "2f4e48c37bc1e5213666de9be8692fe23dcfaf380e81ab3308e70bc908145992",
- "notas": "BMW: anúncios com o motor escrito com A de automático (116dA, 118iA) já não ficam de fora quando se escolhe o motor"
+ "sha256": "a3e676ba052a48b10f28734c2a34132873eda5f7f9e4e930a80adacb2dd7bae4",
+ "notas": "Modelo e motor num só campo: os motores abrem em lista por baixo do modelo, com procura"
 }
