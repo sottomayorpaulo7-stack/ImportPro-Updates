@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-25",
+ "versao": "2026.11.23-26",
  "pacote": "importpro.zip",
- "sha256": "c89e6f7910549574ad7add8436c58f3f95f3323d204ce26ba8691002b3183bed",
- "notas": "Carros a azul: mostram o lucro possível (até +X) em vez do valor negativo e deixam de ser classificados como Prejuízo."
+ "sha256": "abeec6393054af6b528e9e1e4bb63c5e207e507b4ef39e8d0ab6b8e5cd0a31ff",
+ "notas": "Tradução da descrição: quando a resposta vinha igual ao original, o programa volta a pedir e deixa de dizer 'traduzida' se não foi."
 }
