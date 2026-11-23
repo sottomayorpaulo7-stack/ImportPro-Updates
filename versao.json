@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-20",
+ "versao": "2026.11.23-21",
  "pacote": "importpro.zip",
- "sha256": "5863f847799bcb7aea30fa9e520acc5b5bcfb1ac93814b8fdd2a07fc99b47a8d",
- "notas": "Cada tipo de carro passa a mostrar quantos carros dão lucro e quanto dá o melhor, em vez do carro do meio"
+ "sha256": "6ef27eb4deabc7c0956534f27e2c5e6b6eea64a65be487e98dee7aa8983a3d86",
+ "notas": "Cada tipo de carro tem agora um cabeçalho que junta todos os anos e quilómetros; os intervalos abrem por baixo. A coluna passa a chamar-se Preço médio em Portugal"
 }
