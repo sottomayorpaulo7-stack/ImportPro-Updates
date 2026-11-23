@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-1",
+ "versao": "2026.11.23-2",
  "pacote": "importpro.zip",
- "sha256": "784cc428a507d7653057f146bb4cb6a7b5d9d044761213a28d3fe068cfa56ff6",
- "notas": "Página inicial mais acima: sem a barra de cima nem a etiqueta do ISV; menu sem o ícone do logótipo"
+ "sha256": "5bea7dee8d9b241f082f9fea8857391b9c55ec84a6144e6f18ba45d92620c645",
+ "notas": "Menu lateral sem o nome Carvest no topo"
 }
