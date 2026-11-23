@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-23",
+ "versao": "2026.11.23-24",
  "pacote": "importpro.zip",
- "sha256": "935cbfd182d13989ac0a7651de2249040ecdac089d2e99b17dd1f2bcb3483932",
- "notas": "Lista de carros: o nome já não é cortado e cada carro mostra por escrito se tem sinais de acidente, o combustível, a potência e o país."
+ "sha256": "9a3b7a511c918fb3832fcfd83215b562fe2ddfc14d353bd2b1f0521547fbefa7",
+ "notas": "Cores do lucro: verde dá lucro ao preço médio, azul só dá lucro se for vendido acima do preço médio, vermelho não dá lucro nem no preço mais alto."
 }
