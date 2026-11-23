@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-15",
+ "versao": "2026.11.23-16",
  "pacote": "importpro.zip",
- "sha256": "e65a4959ef7d7b5129128447a19564f4e03cb30c0755795eb5db41d65b606ae4",
- "notas": "Os tipos sem carros iguais em Portugal ficam fechados numa linha no fim da lista"
+ "sha256": "a55bb024ebdf7ec3e12e7bb4becd23cb3cfa13c7fc641afa3aa7b4e92d8d7528",
+ "notas": "Os tipos com mais lucro já aparecem com as descrições lidas e os carros avaliados; a avaliação deixa de começar só ao abrir"
 }
