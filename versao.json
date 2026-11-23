@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-27",
+ "versao": "2026.11.23-28",
  "pacote": "importpro.zip",
- "sha256": "856b1b02f519c0a636dd3851b989e80478baa371ef0a82dd4a13e3b706279b9a",
- "notas": "Tipos de carro: respeitam a potência pedida na pesquisa (o preço médio já não conta anúncios portugueses com potência fora do pedido)."
+ "sha256": "7bb21faea5053b30db8edc74846e760321a32e463b3cd6d962e47a2be532c4ac",
+ "notas": "Tipos de carro: o programa confere cada tipo com a potência e o combustível pedidos na pesquisa e com a potência do próprio anúncio."
 }
