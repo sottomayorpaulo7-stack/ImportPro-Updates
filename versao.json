@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-2",
+ "versao": "2026.11.23-3",
  "pacote": "importpro.zip",
- "sha256": "5bea7dee8d9b241f082f9fea8857391b9c55ec84a6144e6f18ba45d92620c645",
- "notas": "Menu lateral sem o nome Carvest no topo"
+ "sha256": "2f4e48c37bc1e5213666de9be8692fe23dcfaf380e81ab3308e70bc908145992",
+ "notas": "BMW: anúncios com o motor escrito com A de automático (116dA, 118iA) já não ficam de fora quando se escolhe o motor"
 }
