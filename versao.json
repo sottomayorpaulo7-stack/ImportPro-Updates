@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-8",
+ "versao": "2026.11.23-9",
  "pacote": "importpro.zip",
- "sha256": "749c78ba95a68a54d191c5f5221382af2c8533c0200a3a7a55ea74a507060b3f",
- "notas": "A avaliação dos carros começa logo com os resultados, sem esperar pela leitura de todas as descrições"
+ "sha256": "2c14b695078c251886dac1a1f5270165d2bc2912be10f8dd83e2f2f851f7ac1d",
+ "notas": "Leitura das descrições com tempo limite por anúncio; o topo mostra quantas descrições e quantos carros já estão tratados"
 }
