@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-11",
+ "versao": "2026.11.23-12",
  "pacote": "importpro.zip",
- "sha256": "bbacc69d7e946756fd8217e8cc8e2b3f78f8146776d7c0cd5bb8f3a4033f0cfd",
- "notas": "O preço de venda passa a ser dado só pela avaliação: o programa recolhe os anúncios portugueses do modelo e já não faz comparações"
+ "sha256": "1b13c8069eadc9a239393ef47d3537404587da2e85867aee4822ddffb93cb50f",
+ "notas": "Os resultados só aparecem depois de avaliados: a barra da pesquisa mostra a avaliação a andar e há o botão Ver já os resultados"
 }
