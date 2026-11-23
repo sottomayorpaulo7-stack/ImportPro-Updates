@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-9",
+ "versao": "2026.11.23-10",
  "pacote": "importpro.zip",
- "sha256": "2c14b695078c251886dac1a1f5270165d2bc2912be10f8dd83e2f2f851f7ac1d",
- "notas": "Leitura das descrições com tempo limite por anúncio; o topo mostra quantas descrições e quantos carros já estão tratados"
+ "sha256": "5c8ee416282afba215167649c30b7e3536c1e5260ce378e97a74709c1e24856d",
+ "notas": "Avaliação com o modelo Opus em modo rápido (experiência); no fim mostra o tempo e o custo"
 }
