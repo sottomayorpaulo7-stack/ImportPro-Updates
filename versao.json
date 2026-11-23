@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-6",
+ "versao": "2026.11.23-7",
  "pacote": "importpro.zip",
- "sha256": "b630a1dfc88a58a0faf2f9c41d245658fd8a2af756933478bc08a2d4ce1dac9b",
- "notas": "Avaliação dos carros mais rápida: respostas mais curtas e mais carros avaliados ao mesmo tempo"
+ "sha256": "3d347776da7cad91e311268247dabd3d8c2884e821b676207b40f41a7c64ab42",
+ "notas": "Avaliação: raciocínio completo de volta, mantendo mais carros em simultâneo e respostas curtas"
 }
