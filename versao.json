@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-14",
+ "versao": "2026.11.23-15",
  "pacote": "importpro.zip",
- "sha256": "1b4a02437aa94fc2825f45baa5edb3fe145d126d09c05344b6909818a91f3b17",
- "notas": "Os resultados passam a abrir por tipo de carro (gavetas): preço do mercado de cada tipo e o que sobra; a avaliação carro a carro só corre na gaveta que abrir"
+ "sha256": "e65a4959ef7d7b5129128447a19564f4e03cb30c0755795eb5db41d65b606ae4",
+ "notas": "Os tipos sem carros iguais em Portugal ficam fechados numa linha no fim da lista"
 }
