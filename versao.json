@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-12",
+ "versao": "2026.11.23-13",
  "pacote": "importpro.zip",
- "sha256": "1b13c8069eadc9a239393ef47d3537404587da2e85867aee4822ddffb93cb50f",
- "notas": "Os resultados só aparecem depois de avaliados: a barra da pesquisa mostra a avaliação a andar e há o botão Ver já os resultados"
+ "sha256": "057c798d1d7c67f05a91128970ef894cea9d6993dbf11bf3f58cfee270499b1e",
+ "notas": "Correção importante: no AutoScout24 as Séries BMW e as Classes Mercedes perdiam o filtro dos anos e quase não traziam carros"
 }
