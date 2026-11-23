@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-26",
+ "versao": "2026.11.23-27",
  "pacote": "importpro.zip",
- "sha256": "abeec6393054af6b528e9e1e4bb63c5e207e507b4ef39e8d0ab6b8e5cd0a31ff",
- "notas": "Tradução da descrição: quando a resposta vinha igual ao original, o programa volta a pedir e deixa de dizer 'traduzida' se não foi."
+ "sha256": "856b1b02f519c0a636dd3851b989e80478baa371ef0a82dd4a13e3b706279b9a",
+ "notas": "Tipos de carro: respeitam a potência pedida na pesquisa (o preço médio já não conta anúncios portugueses com potência fora do pedido)."
 }
