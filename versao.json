@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-19",
+ "versao": "2026.11.23-20",
  "pacote": "importpro.zip",
- "sha256": "f6a5ed8c4e4d1f230e36ab30a06c0e0069fa27bf986fffc84c7f8a29076093bc",
- "notas": "Cada tipo de carro diz de que anos e quilómetros são os números; saiu a linha dos tipos sem comparação"
+ "sha256": "5863f847799bcb7aea30fa9e520acc5b5bcfb1ac93814b8fdd2a07fc99b47a8d",
+ "notas": "Cada tipo de carro passa a mostrar quantos carros dão lucro e quanto dá o melhor, em vez do carro do meio"
 }
