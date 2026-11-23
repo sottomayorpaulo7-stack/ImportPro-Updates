@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-22",
+ "versao": "2026.11.23-23",
  "pacote": "importpro.zip",
- "sha256": "55a2dbb22a88fa241e22e87435db1ac27bfb5dc40cdf839530a2a77ed2caf30c",
- "notas": "Também são avaliados os carros que só dão lucro no preço mais alto do mercado; o talão mostra o lucro no preço máximo"
+ "sha256": "935cbfd182d13989ac0a7651de2249040ecdac089d2e99b17dd1f2bcb3483932",
+ "notas": "Lista de carros: o nome já não é cortado e cada carro mostra por escrito se tem sinais de acidente, o combustível, a potência e o país."
 }
