@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-24",
+ "versao": "2026.11.23-25",
  "pacote": "importpro.zip",
- "sha256": "9a3b7a511c918fb3832fcfd83215b562fe2ddfc14d353bd2b1f0521547fbefa7",
- "notas": "Cores do lucro: verde dá lucro ao preço médio, azul só dá lucro se for vendido acima do preço médio, vermelho não dá lucro nem no preço mais alto."
+ "sha256": "c89e6f7910549574ad7add8436c58f3f95f3323d204ce26ba8691002b3183bed",
+ "notas": "Carros a azul: mostram o lucro possível (até +X) em vez do valor negativo e deixam de ser classificados como Prejuízo."
 }
