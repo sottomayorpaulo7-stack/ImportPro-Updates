@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.23-28",
+ "versao": "2026.11.24-1",
  "pacote": "importpro.zip",
- "sha256": "7bb21faea5053b30db8edc74846e760321a32e463b3cd6d962e47a2be532c4ac",
- "notas": "Tipos de carro: o programa confere cada tipo com a potência e o combustível pedidos na pesquisa e com a potência do próprio anúncio."
+ "sha256": "fe9dcbe0bad32eef6e090f97000c1925729dd995802ebc942e53744aa1900bf4",
+ "notas": "Toyota Yaris e Yaris Cross: com o motor híbrido escolhido, os anúncios portugueses (\"1.5 HDF\") e vários estrangeiros (\"1.5h\", \"Hyb.\") passam a ser reconhecidos."
 }
