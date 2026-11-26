@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.24-1",
+ "versao": "2026.11.26-1",
  "pacote": "importpro.zip",
- "sha256": "fe9dcbe0bad32eef6e090f97000c1925729dd995802ebc942e53744aa1900bf4",
- "notas": "Toyota Yaris e Yaris Cross: com o motor híbrido escolhido, os anúncios portugueses (\"1.5 HDF\") e vários estrangeiros (\"1.5h\", \"Hyb.\") passam a ser reconhecidos."
+ "sha256": "49597976bfd69066823d78a9022fcbe8dc76ec17035e524f3ad58b565556aed1",
+ "notas": "BMW X1, X2, X3 e outros: com um motor escolhido, os anúncios belgas que escrevem o motor ao contrário (\"1.5i sDrive18\", \"1.5 dA sDrive16\") passam a ser reconhecidos."
 }
