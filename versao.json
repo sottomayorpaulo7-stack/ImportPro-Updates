@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.26-1",
+ "versao": "2026.11.27-1",
  "pacote": "importpro.zip",
- "sha256": "49597976bfd69066823d78a9022fcbe8dc76ec17035e524f3ad58b565556aed1",
- "notas": "BMW X1, X2, X3 e outros: com um motor escolhido, os anúncios belgas que escrevem o motor ao contrário (\"1.5i sDrive18\", \"1.5 dA sDrive16\") passam a ser reconhecidos."
+ "sha256": "a8016ec7319eb59fcb46d9eb41a196c1f5a32d36963b1ea76dc304e3bd54d7f3",
+ "notas": "Seat Leon, Ibiza, Arona e Ateca: com um motor escolhido, os anúncios que escrevem \"EcoTSI\" passam a ser reconhecidos como TSI; no Leon há dois motores novos para escolher (1.0 eTSI e 1.5 TGI a gás natural)."
 }
