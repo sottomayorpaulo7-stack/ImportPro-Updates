@@ -1,6 +1,6 @@
 {
- "versao": "2026.11.27-1",
+ "versao": "2026.11.28-1",
  "pacote": "importpro.zip",
- "sha256": "a8016ec7319eb59fcb46d9eb41a196c1f5a32d36963b1ea76dc304e3bd54d7f3",
- "notas": "Seat Leon, Ibiza, Arona e Ateca: com um motor escolhido, os anúncios que escrevem \"EcoTSI\" passam a ser reconhecidos como TSI; no Leon há dois motores novos para escolher (1.0 eTSI e 1.5 TGI a gás natural)."
+ "sha256": "93a6a0518dbf61aa33b14fda24cf5f4cd5573580e52f565b6fafef753abbbf2c",
+ "notas": "Peugeot 3008 e 5008: com um motor escolhido, os anúncios que escrevem o motor sem a potência (\"1.2 PureTech\", \"1.5 BlueHDi\", \"1.6 Hybrid\") passam a ser reconhecidos; no 3008 há um motor novo para escolher (1.2 Hybrid, o híbrido do modelo de 2024)."
 }
