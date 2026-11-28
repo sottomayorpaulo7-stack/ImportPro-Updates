@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16",
+ "atualizado": "2026-11-28",
  "edicao": "Dados da ACAP e do Standvirtual até outubro de 2026 (modelos mais procurados: 1.º semestre)",
  "titulo": "Mercedes Classe E é o usado mais procurado em Portugal, com o Tesla Model 3 em terceiro",
  "lede": "No 1.º semestre de 2026 a procura por elétricos usados subiu 68,7% e o gasóleo perdeu terreno. Em outubro os elétricos foram o motor mais importado (32,8%) e os usados demoraram mais a vender.",
@@ -227,7 +227,9 @@
   "Nos usados a mudança vai mais devagar. O gasóleo ainda é o mais procurado, mas os elétricos são os que mais crescem e há menos à venda do que gente a procurar.",
   "Os carros até 15 000 € são os mais procurados e os que mais faltam: em janeiro a oferta nessa gama caiu 10%, enquanto acima de 30 000 € subiu 3%.",
   "Em outubro a procura por usados caiu cerca de 10% face a 2025 e a oferta cerca de 5%. Os carros estão a demorar mais a vender em todas as gamas de preço: convém comprar com margem para esperar.",
-  "Na importação, os elétricos não pagam ISV e em outubro já foram o tipo de motor mais importado (32,8%), à frente da gasolina e do gasóleo."
+  "Na importação, os elétricos não pagam ISV e em outubro já foram o tipo de motor mais importado (32,8%), à frente da gasolina e do gasóleo.",
+  "Em outubro a procura por elétricos usados subiu 59% face a outubro de 2025, mas os elétricos à venda só aumentaram 10%.",
+  "As marcas chinesas já são 2,5% da procura de usados (1,3% há um ano), mas só 1,52% dos carros à venda: há poucos para tanto interesse."
  ],
  "fontes": [
   [
@@ -253,6 +255,10 @@
   [
    "Standvirtual, mercado de usados em outubro de 2026 (via LusoMotores)",
    "https://lusomotores.pt/2026/11/eletricos-importados-dominam-mercado-de-usados/"
+  ],
+  [
+   "Standvirtual na Convenção da ANECRA, 27/11/2026 (via Jornal Económico)",
+   "https://jornaleconomico.sapo.pt/noticias/procura-por-marcas-chinesas-cresce-83-e-interesse-por-eletricos-usados-aumenta-59-em-portugal/"
   ]
  ],
  "top10": [
